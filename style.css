@@ -384,7 +384,7 @@ a {
     .threel {
         display: flex;
         font-size: x-large;
-        margin-left: 100%;
+        margin-left: 50%;
     }
 
     .header {
@@ -424,7 +424,7 @@ a {
     }
 
     footer {
-    margin-top: 100px;
+    margin-top: 300px;
     }
 
 }
